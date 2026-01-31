@@ -12,6 +12,10 @@ This project involves automated functional and UI testing for a real-world syste
 
 Tests were developed using **Playwright** and automated against 35 scenarios identified in the provided test case Excel sheet.
 
+- 24 positive functional scenarios
+- 10 negative functional scenarios  
+- 1 UI-related test scenario
+
 ---
 
 ## Prerequisites
